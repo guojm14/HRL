@@ -13,3 +13,4 @@ A HRL framework based on stable-baseline3.
 | Hindsight Experience replay             | :heavy_check_mark: |
 | Goal correction          | :heavy_check_mark: |
 | 3-levels or more| :x: |
+| dynamic low steps| :x: |
