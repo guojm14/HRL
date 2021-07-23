@@ -1,3 +1,0 @@
-gym>=0.17
-numpy
-torch>=1.4.0

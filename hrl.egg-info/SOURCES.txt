@@ -1,7 +1,0 @@
-README.md
-setup.py
-hrl.egg-info/PKG-INFO
-hrl.egg-info/SOURCES.txt
-hrl.egg-info/dependency_links.txt
-hrl.egg-info/requires.txt
-hrl.egg-info/top_level.txt
