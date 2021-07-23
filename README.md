@@ -7,7 +7,6 @@ A HRL framework based on stable-baseline3
 | High: on-policy Low: off-policy | :heavy_check_mark: |
 | High: off-policy Low: off-policy | :heavy_check_mark: |
 | High: off-policy Low: on-policy | :x: |
-| Ipython / Notebook friendly | :heavy_check_mark: |
 | Tensorboard support         | :heavy_check_mark: |
 | Learned goal space          | :x: |
 | Hindsight Experience replay             | :heavy_check_mark: |
