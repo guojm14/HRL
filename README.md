@@ -1,6 +1,7 @@
 # HRL
-A HRL framework based on stable-baseline3
+A HRL framework based on stable-baseline3. 
 
+# Main Features
 | **Features**                | **HRL:goal-conditioned hrl** |
 | --------------------------- | ----------------------|
 | High: on-policy Low: on-policy| :heavy_check_mark: |
